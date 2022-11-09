@@ -7,5 +7,6 @@ int a = 11;
 
 		// TODO Auto-generated method stub
 int b = 11;
+		int v = 11;
 	}
 }
